@@ -24,7 +24,7 @@ h2,h3{
     font-weight:600;
 }
 .hero{
-    background: url(/bg-hero-desktop.svg) no-repeat;
+    background: url(bg-hero-desktop.svg) no-repeat;
     background-position: center;
     background-size: cover;
     background-color:hsl(193, 100%, 96%);
@@ -215,7 +215,7 @@ footer{
 }
 @media screen and (max-width:970px){
     .hero{
-        background: url(/bg-hero-mobile.svg) no-repeat;
+        background: url(bg-hero-mobile.svg) no-repeat;
         background-position: center;
         background-size: contain;
         background-color: hsl(193, 100%, 96%);

@@ -283,6 +283,9 @@ footer{
         padding: 60px;
         margin-bottom: 10%;
     }
+    .sect-one, .sect-two, .sect-three{
+     width:100%;
+}
     .sect-onetext h3, .sect-threetext h3{
         margin-top: 10%;
     }

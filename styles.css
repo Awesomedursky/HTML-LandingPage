@@ -239,6 +239,9 @@ footer{
         font-size:35px ;
         margin-bottom: 40px;
     }
+    section h3{
+        font-size: 20px;
+    }
     .hero-details{
         width: 100%;
         display: flex;

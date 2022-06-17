@@ -219,7 +219,13 @@ footer{
     }
     .tryit a, .intro-text a{
         padding: 5px 15px;
+        font-size: 15px;
     }
+    header{
+        display: flex;
+        justify-content: space-around;
+    }
+
     .hero{
         background: url(bg-hero-mobile.svg) no-repeat;
         background-position: center;
@@ -230,7 +236,7 @@ footer{
         margin-bottom: 10%;
     }
     .hero h2{
-        font-size:40px ;
+        font-size:35px ;
         margin-bottom: 40px;
     }
     .hero-details{

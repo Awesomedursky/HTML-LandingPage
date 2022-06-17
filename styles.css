@@ -218,7 +218,7 @@ footer{
         width:60%;
     }
     .tryit a, .intro-text a{
-        padding: 5px 20px;
+        padding: 5px 15px;
     }
     .hero{
         background: url(bg-hero-mobile.svg) no-repeat;

@@ -224,10 +224,6 @@ footer{
     .intro-text a{
         padding: 15px 40px;
     }
-    header{
-        display: flex;
-        justify-content: space-around;
-    }
 
     .hero{
         background: url(bg-hero-mobile.svg) no-repeat;
@@ -260,12 +256,15 @@ footer{
         width: 100%;
         padding-bottom: 10%;
     }
+    .header{
+        padding:0 1%;
+    }
     .hero-details img{
         margin-top: 40px;
     }
     .intro-text>p {
         font-weight: 500;
-        font-size: 22px;
+        font-size: 20px;
         line-height: 30px;
         margin-bottom: 40px;}
 

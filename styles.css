@@ -217,9 +217,12 @@ footer{
     .hero header img{
         width:60%;
     }
-    .tryit a, .intro-text a{
+    .tryit a{
         padding: 5px 15px;
         font-size: 15px;
+    }
+    .intro-text a{
+        padding: 15px 40px;
     }
     header{
         display: flex;
@@ -239,7 +242,7 @@ footer{
         font-size:35px ;
         margin-bottom: 40px;
     }
-    section h3{
+    .sect-onetext h3, .sect-twotext h3, .sect-threetext h3{
         font-size: 20px;
     }
     .hero-details{

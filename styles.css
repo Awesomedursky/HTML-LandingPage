@@ -242,7 +242,9 @@ footer{
     }
     .sect-onetext h3, .sect-twotext h3, .sect-threetext h3{
         font-size: 20px;
-        width:100%;
+    }
+    .sect-onetext, .sect-twotext, .sect-threetext{ 
+     width:100%;
     }
     .hero-details{
         width: 100%;
